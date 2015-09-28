@@ -1,0 +1,34 @@
+{
+  "name": "mcms-node-postmark",
+  "description": "Postmark driver for sending mail via postmark in mcms-node",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Michael Bouclas",
+    "email": "mbouclas@gmail.com",
+    "url": "http://www.net-tomorrow.com"
+  },
+  "keywords": [
+    "mcms",
+    "mcms-node",
+    "mail",
+    "postmark"
+  ],
+  "directories": {
+    "lib": "./lib/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbouclas/mcms-node-postmark"
+  },
+  "bugs": {
+    "url": "https://github.com/mbouclas/mcms-node-postmark/issues"
+  },
+  "readmeFilename": "readme.md",
+  "main": "./lib/index",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "postmark": "^1.2.1"
+  },
+  "devDependencies": {}
+}
