@@ -1,7 +1,7 @@
 {
   "name": "mcms-node-postmark",
   "description": "Postmark driver for sending mail via postmark in mcms-node",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "author": {
     "name": "Michael Bouclas",
